@@ -862,10 +862,10 @@
   "credits.wiki": "POLYTOPIA WIKI",
   "credits.showsupport": "Pokaż swoje wsparcie!",
   "credits.getmerch": "Zdobądź oficjalne gadżety Polytopii:",
-  "credits.visitshop": "Odwiedź sklep",
+  "credits.visitshop": "ODWIEDŹ SKLEP",
   "credits.programming": "Programowanie i projektowanie",
   "credits.sound": "Dźwięk i muzyka",
-  "credits.tribe": "Design Plemion",
+  "credits.tribe": "Design plemion",
   "credits.debuginfo": "Informacje debugowania",
   "credits.build": "Wersja kompilacji",
   "credits.os": "Systemy operacyjne",
@@ -876,9 +876,9 @@
   "date.day": "dzień",
   "date.days": "dni",
   "date.hour": "godzina",
-  "date.hours": "godziny",
+  "date.hours": "godzin(y)",
   "date.minute": "minuta",
-  "date.minutes": "minuty",
+  "date.minutes": "minut(y)",
   "date.second": "sekunda",
-  "date.seconds": "sekundy"
+  "date.seconds": "sekund(y)"
 }
