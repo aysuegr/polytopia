@@ -588,7 +588,7 @@
   "action.info.build": "zbuduj {0} tutaj",
   "action.info.reward.population": "To zwiększy populację najbliższego miasta. Kiedy populacja staje się wystarczająco duża, miasto będzie rosło i produkowało więcej zasobów",
   "action.info.reward.resources": "To da Ci natychmiastową nagrodę za {0} zasobów",
-  "action.info.research": "badaj {0}. {0}",
+  "action.info.research": "odkryć technologię \"{0}\".",
   "actionbtn.upgrade": "Uleprz do {0}",
   "actionbtn.remove.building": "Budynek",
   "actionbtn.remove.roads": "Drogi",
