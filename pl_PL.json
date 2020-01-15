@@ -723,7 +723,7 @@
   "onlineview.gameinvitations": "Zaproszenia do gry",
   "onlineview.nogames.intro": "Cześć {0}!",
   "onlineview.nogames.start": "Zacznijmy grę online z przyjaciółmi. Naciśnij \"Nowa gra\", aby rozpocząć.",
-  "onlineview.nogames.first": "Najpierw będziesz potrzebował kogoś do gry z Tobą. Naciśnij na przycisk "Znajomi", aby ich dodać.",
+  "onlineview.nogames.first": "Najpierw będziesz potrzebował kogoś do gry z Tobą. Naciśnij przycisk \"Znajomi\", aby ich dodać.",
   "onlineview.or": "lub",
   "onlineview.passplay.start": "Rozpocznij lokalną grę robiąc to, co powyżej",
   "onlineview.login.ios": "Zaloguj się do {0}",
