@@ -685,7 +685,7 @@
   "settings.language.load.input": "Adres URL pliku językowego:",
   "settings.language.load.button": "WCZYTAJ",
   "throne.title": "Hala Władców",
-  "throne.reset": "zresetuj wyniki",
+  "throne.reset": "Zresetuj wyniki",
   "throne.playerinfo": "Informacje o graczu",
   "throne.playerid": "ID gracza",
   "throne.clipboard": "ID gracza dodane do schowka",
@@ -881,5 +881,6 @@
   "date.minute": "minuta",
   "date.minutes": "minut(y)",
   "date.second": "sekunda",
-  "date.seconds": "sekund(y)"
+  "date.seconds": "sekund(y)",
+  "consent.revoke": "Cofnij pozwolenie"
 }
