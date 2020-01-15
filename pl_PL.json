@@ -883,5 +883,6 @@
   "date.second": "sekunda",
   "date.seconds": "sekund(y)",
   "consent.revoke": "Cofnij pozwolenie",
-  "consent.deny": "ODMÓW"
+  "consent.deny": "ODMÓW",
+  "consent.accept": "AKCEPTUJ"
 }
