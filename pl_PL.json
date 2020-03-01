@@ -681,7 +681,7 @@
   "settings.language": "Język",
   "settings.restartlanguage": "Uruchom ponownie Polytopię aby całkowicie przełączyć język",
   "settings.language.load.title": "Język niestandardowy (BETA)",
-  "settings.language.load.info": "Załaduj plik języka Polytopii ze zdalnego serwera używając https. Jest to funkcja eksperymentalna, nie dla słabego serduszka.",
+  "settings.language.load.info": "Załaduj plik języka Polytopii z serwera przez protokół HTTPS. Jest to funkcja eksperymentalna, dla zaprawionych w boju.",
   "settings.language.load.input": "Adres URL pliku językowego:",
   "settings.language.load.button": "WCZYTAJ",
   "throne.title": "Hala Władców",
