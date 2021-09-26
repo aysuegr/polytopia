@@ -9,14 +9,14 @@
   "startmenu.about": "Ойын туралы",
 
   "news.title": "POLYTOPIA NEWS",
-  "news.description": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",
-  "gamemodepicker.title": "GAME MODE",
+  "news.description": "Қош келдің!\n Бұл жерде біз Polytopia әлеміндегі соңғы жаңалықтар бөлісеміз. Біз бірге қал!",
+  "gamemodepicker.title": "ОЙЫН МОДЫ",
 
   "tribepicker.title": "ТАЙПАҢДЫ ТАҢДА",
   "tribepicker.categories.humantribes": "Тұрақты тайпалар",
   "tribepicker.categories.specialtribes": "Арнайы тайпалар",
   "tribepicker.categories.specialtribes.description": "A collection of tribes that are a bit out of this world...",
-  "tribepicker.categories.random": "Let fate decide!",
+  "tribepicker.categories.random": "Тағдыр шешсін!",
   "tribepicker.categories.random.button": "RANDOM TRIBE",
   "tribepicker.categories.random.selected.title": "Alakazam!",
   "tribepicker.categories.random.selected.text": "Random tribe selected",
