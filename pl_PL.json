@@ -131,7 +131,7 @@
   "world.unit.veteran": "This unit is a veteran.",
   "world.unit.veteran.progress": "Ардагер болу үшін {0}/{1}.",
   "world.unit.ability": "Unit Ability",
-  "world.unit.health": "Қалы",
+  "world.unit.health": "Саулығы",
   "world.unit.attack": "Шабуы",
   "world.unit.defence": "Қорғануы",
   "world.unit.movement": "Әрекеті",
@@ -566,7 +566,7 @@
   "technology.names.mathematics": "Mathematics",
   "technology.names.archery": "Садақ ату",
   "technology.names.spiritualism": "Spiritualism",
-  "technology.names.climbing": "Climbing",
+  "technology.names.climbing": "Тауға шығу",
   "technology.names.meditation": "Meditation",
   "technology.names.philosophy": "Philosophy",
   "technology.names.mining": "Кен игеру",
@@ -621,14 +621,14 @@
 
   "stringtools.typelist.and": "and",
 
-  "topbar.score": "Score",
-  "topbar.turn": "Turn",
-  "topbar.stars": "Stars (+{0})",
+  "topbar.score": "Ұпай",
+  "topbar.turn": "Жүріс",
+  "topbar.stars": "Жұлдыз (+{0})",
 
-  "bottommenu.gamestats": "Game Stats",
+  "bottommenu.gamestats": "Санақ",
   "bottommenu.menu": "Menu",
-  "bottommenu.nextturn": "Next Turn",
-  "bottommenu.techtree": "Tech Tree",
+  "bottommenu.nextturn": "Келесі жүріс",
+  "bottommenu.techtree": "Зерттеу ағашы",
 
   "endscreen.done": "DONE",
   "endscreen.ruledby": "Ruled by {0}",
