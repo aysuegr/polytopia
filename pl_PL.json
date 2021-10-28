@@ -46,9 +46,9 @@
   "tribepicker.topscore.next": "Келесі жұлдыз алуға {0} керек",
   "tribepicker.players": "{0} ойыншы",
   "tribepicker.mapsize": "Map Size: {0} tiles",
-  "tribepicker.gamemode": "Ойын моды: {0}",
+  "tribepicker.gamemode": "Ойын түрі: {0}",
 
-  "gamesettings.title": "GAME SETUP",
+  "gamesettings.title": "ОЙЫНДЫ БАПТАУ",
   "gamesettings.yourname": "Есімің",
   "gamesettings.anonymous": "Anonymous",
   "gamesettings.gamename": "Ойын атауы",
