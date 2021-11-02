@@ -68,7 +68,7 @@
   "gamesettings.difficulty.crazy": "Жынды",
   "gamesettings.startgame": "ОЙЫНДЫ БАСТАУ",
   "gamesettings.creatingworld": "ӘЛЕМ ҚҰРЫЛУДА",
-  "gamesettings.mode": "Ойын түрі",
+  "gamesettings.mode": "Ойын моды",
   "gamesettings.createslot": "Creating game slot...",
   "gamesettings.createslot.error": "Error creating game",
   "gamesettings.createslot.error.info": "Make sure you are online and try again.",
