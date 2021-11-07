@@ -419,7 +419,7 @@
   "buttons.ok": "OK",
   "buttons.exit": "ШЫҒУ",
   "buttons.save": "САҚТАУ",
-  "buttons.back": "BACK",
+  "buttons.back": "АРТҚА",
 
   "gameinfo.id": "id: {0}",
   "gameinfo.lastmove": "Last move: {0} ago",
