@@ -84,8 +84,8 @@
   "gamesettings.online.disabled.info": "Желілік ойын үшін кей нәрсе баптау керек.",
   "gamesettings.online.info": "Серверімізге қосылып доспен бірге ойна.",
   "gamesettings.passplay.info": "Құрылғыны бөлісіп доспен бірге ойна.",
-  "gamesettings.size.tiles": "{0} tiles map.",
-  "gamesettings.continue": "CONTINUE",
+  "gamesettings.size.tiles": "{0} ұяшықты қарта.",
+  "gamesettings.continue": "ЖАЛҒАСТЫРУ",
 
   "gamemode.perfection.caps": "МІНСІЗДІК",
   "gamemode.perfection": "Мінсіздік",
