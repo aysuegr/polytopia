@@ -82,8 +82,8 @@
   "gamesettings.network.passplay": "Беріп ойнау",
   "gamesettings.online.disabled": "Көптік ойын бұғатталған",
   "gamesettings.online.disabled.info": "Көптік ойын үшін кей нәрсе баптау керек",
-  "gamesettings.online.info": "Серверімізге қосылып доспен бірге ойна.",
-  "gamesettings.passplay.info": "Құрылғыны бөлісіп доспен бірге ойна.",
+  "gamesettings.online.info": "Серверімізге қосылып досыңмен ойна.",
+  "gamesettings.passplay.info": "Құрылғыны досыңмен кезектесіп ойна.",
   "gamesettings.size.tiles": "{0} ұяшықты қарта.",
   "gamesettings.continue": "ЖАЛҒАСТЫРУ",
 
