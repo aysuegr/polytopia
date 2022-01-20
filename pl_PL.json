@@ -69,7 +69,7 @@
   "gamesettings.startgame": "ОЙЫНДЫ БАСТАУ",
   "gamesettings.creatingworld": "ӘЛЕМ ҚҰРЫЛУДА",
   "gamesettings.mode": "Ойын режімі",
-  "gamesettings.createslot": "Creating game slot...",
+  "gamesettings.createslot": "Ойын слоты құрылып...",
   "gamesettings.createslot.error": "Ақау пайда болды",
   "gamesettings.createslot.error.info": "Онлайн екеніңе көз жеткізіп қайта басып көр.",
   "gamesettings.size": "Қарта өлшемі",
